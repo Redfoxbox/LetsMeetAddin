@@ -1,0 +1,14 @@
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.csproj.AssemblyReference.cache
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.Properties.Resources.resources
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.csproj.GenerateResource.cache
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.csproj.CoreCompileInputs.cache
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\LetsMeetAddin.dll.config
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\LetsMeetAddin.dll
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\LetsMeetAddin.pdb
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\LetsMeetAddin.dll.manifest
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\LetsMeetAddin.vsto
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.csproj.CopyComplete
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.dll
+C:\Users\kgergo\source\repos\LetsMeetAddin\LetsMeetAddin\obj\Debug\LetsMeetAddin.pdb

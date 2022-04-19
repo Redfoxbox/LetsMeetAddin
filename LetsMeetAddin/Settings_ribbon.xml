@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+		<tab idMso="TabAddIns">
+			<group id="ContentGroup" label="KIFÜ Meet" autoScale="true" >
+				<editBox id="editBox1" label="Link" getText="EditBoxGetTextLink" onChange="editBoxLink_TextChanged" showImage="false" sizeString="MY_MAX_LENGTH_STRING_MY_MAX_LENGTH_STRING" />
+				<editBox id="editBox2" label="Megnevezés" getText="EditBoxGetTextName" onChange="editBoxName_TextChanged" showImage="false" sizeString="MY_MAX_LENGTH_STRING_MY_MAX_LENGTH_STRING" />
+				<editBox id="editBox3" label="Leírás" getText="EditBoxGetTextDesc" onChange="editBoxDesc_TextChanged" showImage="false" sizeString="MY_MAX_LENGTH_STRING_MY_MAX_LENGTH_STRING" />
+			</group>
+		</tab>
+    </tabs>
+  </ribbon>
+</customUI>
+

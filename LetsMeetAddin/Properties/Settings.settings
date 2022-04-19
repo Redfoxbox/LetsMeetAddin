@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LetsMeetAddin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MeetLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://meet.kifu.hu/</Value>
+    </Setting>
+    <Setting Name="MeetName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KIFÜ meet értekezlet</Value>
+    </Setting>
+    <Setting Name="MeetDesc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Kattintson az alábbi linkre az értekezlethez való csatlakozáshoz:</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
